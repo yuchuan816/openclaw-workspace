@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "profiles": {
+    "modelscope:default": {
+      "type": "api_key",
+      "provider": "modelscope",
+      "key": "${MODELSCOPE_API_KEY}"
+    },
+    "modelstudio:default": {
+      "type": "api_key",
+      "provider": "modelstudio",
+      "key": "${BAILIAN_API_KEY}"
+    }
+  },
+  "lastGood": {
+    "modelstudio": "modelstudio:default",
+    "modelscope": "modelscope:default"
+  },
+  "usageStats": {
+    "modelstudio:default": {
+      "errorCount": 0,
+      "lastFailureAt": 1775353267318,
+      "lastUsed": 1775355825707
+    },
+    "modelscope:default": {
+      "errorCount": 0,
+      "lastUsed": 1775356024235
+    }
+  }
+}
