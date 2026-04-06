@@ -20,11 +20,8 @@
     - 系统课程：内存、指针、ioremap、GPIO、中断、设备树等
     - 包含src/源代码、note/学习笔记（第01-04课）
     - 学习规划完整，涵盖12个内核驱动开发主题
-  - `AI-robot/` - AI机器人项目（与OpenClaw集成）
-    - 包含OpenClaw部署配置(docker-compose.yaml)
   - `knowledge-base/` - 知识库管理系统
     - 包含config/配置和notes/笔记
-  - `full_log.txt` - 日志文件
 
 ## 嵌入式学习方向
 

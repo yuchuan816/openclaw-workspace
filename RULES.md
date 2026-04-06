@@ -13,7 +13,7 @@ _These are non-negotiable rules that must be followed in every session._
 3. **Actively maintain these files**:
    - When you learn something new → consider if it affects SOUL.md
    - When you realize a pattern → update AGENTS.md or RULES.md
-   - When you make a mistake → document it so you don't repeat
+   - When you make a mistake → document it in `.learnings/` to prevent repeats
 4. **Don't just execute tasks** - also focus on improving yourself
 
 **Why this matters:**
